@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### `for styling ui`
+     I have used bootstrap and  tailwindcss frameworks for styling ui .
+
+### `data storage`
+    I used  localstorage to store data that will persist any time.Also availabe it for the page refresh.
+
+### `For deleting any task`
+     Deleteing any task in list , I used filter method that will delete task from list and localstorage.         
